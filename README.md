@@ -134,11 +134,11 @@ streamlit run app/dashboard.py
 ```
 ## Static Dashboard
 
-A static HTML version of the dashboard is also available in this repository:
+## Dashboard Preview
 
-- dashboard.html
+### Overview
+![Dashboard Overview](/dashboard-overview.png)
 
-This allows quick visualization of the project without running the Streamlit app.
 
 ## Business Impact
 
